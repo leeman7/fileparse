@@ -1,0 +1,14 @@
+C:\Users\Leema\source\repos\FileParse\FileParse\bin\Debug\netcoreapp3.1\FileParse.exe
+C:\Users\Leema\source\repos\FileParse\FileParse\bin\Debug\netcoreapp3.1\FileParse.deps.json
+C:\Users\Leema\source\repos\FileParse\FileParse\bin\Debug\netcoreapp3.1\FileParse.runtimeconfig.json
+C:\Users\Leema\source\repos\FileParse\FileParse\bin\Debug\netcoreapp3.1\FileParse.runtimeconfig.dev.json
+C:\Users\Leema\source\repos\FileParse\FileParse\bin\Debug\netcoreapp3.1\FileParse.dll
+C:\Users\Leema\source\repos\FileParse\FileParse\bin\Debug\netcoreapp3.1\FileParse.pdb
+C:\Users\Leema\source\repos\FileParse\FileParse\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Leema\source\repos\FileParse\FileParse\obj\Debug\netcoreapp3.1\FileParse.AssemblyInfoInputs.cache
+C:\Users\Leema\source\repos\FileParse\FileParse\obj\Debug\netcoreapp3.1\FileParse.AssemblyInfo.cs
+C:\Users\Leema\source\repos\FileParse\FileParse\obj\Debug\netcoreapp3.1\FileParse.csproj.CoreCompileInputs.cache
+C:\Users\Leema\source\repos\FileParse\FileParse\obj\Debug\netcoreapp3.1\FileParse.csproj.CopyComplete
+C:\Users\Leema\source\repos\FileParse\FileParse\obj\Debug\netcoreapp3.1\FileParse.dll
+C:\Users\Leema\source\repos\FileParse\FileParse\obj\Debug\netcoreapp3.1\FileParse.pdb
+C:\Users\Leema\source\repos\FileParse\FileParse\obj\Debug\netcoreapp3.1\FileParse.genruntimeconfig.cache

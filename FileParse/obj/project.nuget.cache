@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EqvOaX1VBEy8QKI3oUzZGDb2jMNRXfNSZZzx+IYOTLUR4r5LwN/TJa13betvyi7BxuA5UD9huXX82Jfk8z1lZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leema\\source\\repos\\FileParse\\FileParse\\FileParse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leema\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
